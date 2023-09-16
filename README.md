@@ -10,8 +10,10 @@ Para instalar, ejecutar "Instalar_PassWin.Desktop":
  
  * Copia el scripts './bin/PassWin_vxx.sh' en '$HOME/.local/bin'
  
- * Instala los paquetes si no los tiene  (chtpw y yad).
+ * Instala los paquetes si no los tiene  (chtpw y yad), que estan en la carpeta, por lo que no necesita una conexión a la red.
 
+
+Para desinstalar, ejecutar 'Desinstalar_PassWin.sh'
 
 Recuerda que este programa es para uso personal con 'Fines Didácticos'.
 
