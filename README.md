@@ -1,6 +1,6 @@
 # Utiles
 PassWin es un programa para borrar la contraseña de Windows, busca en los discos duros y muestra los 'windows disposibles',
-para que puedas elegir en que re interese.
+para que puedas elegir en que te interese.
 
 Para instalar, ejecutar "Instalar_PassWin.Desktop":
 
