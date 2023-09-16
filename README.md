@@ -6,9 +6,9 @@ Para instalar, ejecutar "Instalar_PassWin.Desktop":
 
  * Crea el acceso directo de 'PassWin.desktop' en el 'Escritorio' y en '$HOME/.local/share/applications/' (Para el menú de Xfce'). No sé, si sirve para otros.
  
- * Copia el icono './ico/PassWin.png' en '$HOME/share/ico'
+ * Copia el icono './ico/PassWin.png' en '~/.local/share/ico/'
  
- * Copia el scripts './bin/PassWin_vxx.sh' en '$HOME/.local/bin'
+ * Copia el script './bin/PassWin_vxx.sh' en '~/.local/bin/'
  
  * Instala los paquetes si no los tiene  (chtpw y yad), que estan en la carpeta, por lo que no necesita una conexión a la red.
 
